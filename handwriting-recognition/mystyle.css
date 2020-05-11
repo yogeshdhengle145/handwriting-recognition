@@ -1,0 +1,24 @@
+
+.float-child {
+	float:left;
+	width:49%;
+	overflow:hidden;
+	border: 2px solid;
+}  
+
+.float-child-right{
+	float: right;
+	width:49%;
+	overflow:hidden;
+	display: inline;
+	border: 2px solid;
+} 
+
+body {
+	background-color: lightblue;	
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
